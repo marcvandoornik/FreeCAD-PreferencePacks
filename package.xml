@@ -11,20 +11,8 @@
 
   <content>
     <preferencepack>
-      <name>Custom addon repositories</name>
-    </preferencepack>
-    <preferencepack>
-      <name>Disable new sketch attachment dialog</name>
-    </preferencepack>
-    <preferencepack>
-      <name>Enable new sketch attachment dialog</name>
-    </preferencepack>
-    <preferencepack>
       <name>Keyboard shortcuts</name>
       <description>Efficient keyboard mappings</description>
-    </preferencepack>
-    <preferencepack>
-      <name>Reset light sources</name>
     </preferencepack>
   </content>
 
