@@ -6,7 +6,7 @@
   <version>0.0.1</version>
   <maintainer email="marcvandoornik@gmail.com">Marc van Doornik</maintainer>
   <license file="LICENSE">GPLv3</license>
-  <url type="repository" branch="main">https://github.com/marcvandoornik/FreeCAD-PreferencePacks</url>
+  <url type="repository" branch="main">https://github.com/marcvandoornik/FreeCAD-PreferencePacks/PersonalPreferences</url>
   <icon>resources/logo.svg</icon>
 
   <content>
