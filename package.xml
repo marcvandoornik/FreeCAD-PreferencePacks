@@ -3,7 +3,8 @@
 
   <name>My personal preferences</name>
   <description>A nice set of baseline preferences to quickly bootstrap a new FreeCAD installation.</description>
-  <version>0.0.1</version>
+  <version>2026.02.02</version>
+  <date>2026.02.02</date>
   <maintainer email="marcvandoornik@gmail.com">Marc van Doornik</maintainer>
   <license file="LICENSE">GPLv3</license>
   <url type="repository" branch="main">https://github.com/marcvandoornik/FreeCAD-PreferencePacks</url>
