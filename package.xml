@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<package format="1">
+  <name>My personal preferences</name>
+  <description>A nice set of baseline preferences to quickly bootstrap a new FreeCAD installation</description>
+  <version>2026.02.02</version>
+  <date>2026.02.02</date>
+  <maintainer email="marcvandoornik@gmail.com">Marc van Doornik</maintainer>
+  <license file="LICENSE">GPLv3</license>
+  <url type="repository" branch="main">https://github.com/marcvandoornik/FreeCAD-PreferencePacks</url>
+  <icon>resources/icons/FreeCAD-PreferencePacks.svg</icon>
+
+  <content>
+    <preferencepack>
+      <name>Custom addon repositories</name>
+    </preferencepack>
+    <preferencepack>
+      <name>Disable new sketch attachment dialog</name>
+    </preferencepack>
+    <preferencepack>
+      <name>Enable new sketch attachment dialog</name>
+    </preferencepack>
+    <preferencepack>
+      <name>Keyboard shortcuts</name>
+      <description>Efficient keyboard mappings</description>
+    </preferencepack>
+    <preferencepack>
+      <name>Reset light sources</name>
+    </preferencepack>
+  </content>
+
+</package>
