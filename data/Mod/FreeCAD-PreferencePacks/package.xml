@@ -11,6 +11,9 @@
 
   <content>
     <preferencepack>
+      <name>Baseline configuration</name>
+    </preferencepack>
+    <preferencepack>
       <name>Custom addon repositories</name>
     </preferencepack>
     <preferencepack>
@@ -22,6 +25,9 @@
     <preferencepack>
       <name>Keyboard shortcuts</name>
       <description>Efficient keyboard mappings</description>
+    </preferencepack>
+    <preferencepack>
+      <name>Main window layout</name>
     </preferencepack>
     <preferencepack>
       <name>Reset light sources</name>
