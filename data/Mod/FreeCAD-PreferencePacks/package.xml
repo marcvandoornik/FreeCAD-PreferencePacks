@@ -17,10 +17,16 @@
       <name>Custom addon repositories</name>
     </preferencepack>
     <preferencepack>
+      <name>Custom toolbars</name>
+    </preferencepack>
+    <preferencepack>
       <name>Disable new sketch attachment dialog</name>
     </preferencepack>
     <preferencepack>
       <name>Enable new sketch attachment dialog</name>
+    </preferencepack>
+    <preferencepack>
+      <name>Fasteners preferences</name>
     </preferencepack>
     <preferencepack>
       <name>Keyboard shortcuts</name>
@@ -30,8 +36,18 @@
       <name>Main window layout</name>
     </preferencepack>
     <preferencepack>
+      <name>Navigation cube bottom right</name>
+    </preferencepack>
+    <preferencepack>
       <name>Reset light sources</name>
     </preferencepack>
+    <preferencepack>
+      <name>Workbench selector</name>
+    </preferencepack>
+    <preferencepack>
+      <name>Workbench toolbars</name>
+    </preferencepack>
+
   </content>
 
 </package>
