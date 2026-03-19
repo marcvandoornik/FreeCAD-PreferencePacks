@@ -6,7 +6,7 @@ REM A2plus assembly workbench
 REM git clone https://github.com/kbwbe/A2plus
 
 REM AddFC - useful utilities
-git clone https://github.com/GS90/addFC
+REM git clone https://github.com/GS90/addFC
 
 REM Assembly4.1
 REM git clone https://github.com/leoheck/FreeCAD_Assembly4.1
@@ -39,7 +39,7 @@ REM Fasteners Workbench
 git clone https://github.com/shaise/FreeCAD_FastenersWB
 
 REM File Explorer Addon
-git clone https://github.com/mnesarco/FileExplorerExt
+REM git clone https://github.com/mnesarco/FileExplorerExt
 
 REM Gears
 REM git clone https://github.com/looooo/freecad.gears
@@ -54,7 +54,7 @@ REM Nodes Workbench
 REM git clone https://github.com/j8sr0230/Nodes
 
 REM NordicFC Theme
-git clone https://github.com/erroronline1/NordicFC
+REM git clone https://github.com/erroronline1/NordicFC
 
 REM OpenTheme
 git clone https://github.com/obelisk79/OpenTheme
@@ -72,10 +72,10 @@ REM SaveAndRestore
 REM git clone https://github.com/APEbbers/SaveAndRestore
 
 REM SheetMetal Workbench
-git clone https://github.com/shaise/FreeCAD_SheetMetal
+REM git clone https://github.com/shaise/FreeCAD_SheetMetal
 
 REM Silk Workbench
 REM git clone https://github.com/edwardvmills/Silk
 
 REM Weld feature workbench
-git clone https://github.com/alexneufeld/FreeCAD_WeldfFeature.git
+REM git clone https://github.com/alexneufeld/FreeCAD_WeldfFeature.git
